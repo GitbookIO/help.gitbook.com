@@ -1,9 +1,8 @@
-When the book you are working on is linked to an organization's GitHub repository,
-the organization's owner should grant the access to the GitBook application to be able to work with it.
+To import a book from, or link a book to a GitHub repository belonging to a GitHub organization, the GitHub organization needs to grant access to the GitBook application. Otherwise, the repository will not be listed for you to import.
 
 ### Check the current status
 
-You can check that GitBook.com is able to access the repository by going to [this link](https://github.com/settings/connections/applications/e103ee3796d447fab74c).
+You can check that GitBook.com is able to access the required GitHub organization by visiting [GitBook's authorization page](https://github.com/settings/connections/applications/e103ee3796d447fab74c).
 
 ### Grant access to GitBook
 

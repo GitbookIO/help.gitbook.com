@@ -49,7 +49,7 @@
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
 * [How can I import my GitHub repository?](github/how-can-i-import-repo.md)
 * [How can I transfer my content to GitHub?](github/how-can-i-export-to-repo.md)
-* [Why is my repository not listed?](github/why-is-my-repo-not-listed.md)
+* [Why isn't my repository listed?](github/why-is-my-repo-not-listed.md)
 
 ## Organizations
 * [What is an Organization?](orgs/what-is-an-organization.md)

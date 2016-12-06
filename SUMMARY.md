@@ -33,6 +33,7 @@
 * [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
+* [How can I provide a PDF version of my book ?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
 
 ## Content & Customization
 * [Can I customize the design of my book?](content/can-i-customize-design.md)
@@ -64,3 +65,4 @@
 * [What platforms does the editor support?](editor/what-os-are-supported.md)
 * [Where are the files stored?](editor/where-are-the-files-stored.md)
 * ["Error: Quota has been exceeded"](editor/error-quota.md)
+

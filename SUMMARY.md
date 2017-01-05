@@ -34,6 +34,7 @@
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
 * [How can I provide a PDF version of my book ?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
+* [How can I delete a book?](books/how-can-i-delete-a-book.md)
 
 ## Content & Customization
 * [Can I customize the design of my book?](content/can-i-customize-design.md)

@@ -1,5 +1,5 @@
 {
-    "gitbook": "3.1.1",
+    "gitbook": "3.2.2",
     "title": "GitBook Help Center",
     "plugins": ["algolia", "search", "theme-faq", "-lunr", "-fontsettings", "-sharing"],
     "structure": {

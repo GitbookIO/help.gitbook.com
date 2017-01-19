@@ -7,44 +7,43 @@ GitBook integrates perfectly with [GitHub](https://github.com) as a hosting solu
 
 Integrating with GitHub is done in 3 steps:
 
-1. Setting up [permissions](#permissions)
-2. [Linking your book](#linking) to a GitHub repository
-3. Setting up [webhooks](#webhooks)
+1. Setting up [GitHub Integration](#github-integration)
+2. [Grant access to your repositories](#grant-access)
+3. [Linking your book](#linking) to a GitHub repository or [Create a new book
+   using GitHub](#create)
 
+### 1. Setting up GitHub Integration {#github-integration}
 
-### 1. Setting up permissions {#permissions}
+To integrate your book with GitHub, you need to authorize GitBook to access
+your GitHub account to some extent. From your [account's
+GitHub settings](https://www.gitbook.com/settings/github), connect your GitHub
+account using the **Connect GitHub** button and install the GitBook integration
+on GitHub using the **Install GitHub integration on this account** button.
 
-To integrate your book with GitHub, you need to authorize GitBook to access your GitHub account to some extent. From your [account's settings](https://www.gitbook.com/settings), connect your GitHub account and choose what you will allow:
+This will redirect you to GitHub's integration install page where you can
+install and configure GitBook integration for GitHub.
 
-- **Default permissions**: Allows you to authenticate with GitHub on GitBook.
-- **Access to public repositories**: Allows editing books on your public GitHub repositories from the GitBook Web editor.
-- **Access to private repositories**: Same as above, but for private repositories too.
-- **Access to webhook**: Allows GitBook to create webhooks on your book repositories to trigger builds automatically.
+### 2. Grant access to your repositories {#grant-access}
 
+From GitHub's integration page, choose either all repositories or grant access to just some of them.
 
-### 2. Linking your book to a GitHub repository {#linking}
+Click on the **Install** button.
+
+### 3. Linking your book to a GitHub repository {#linking}
 
 From your book's GitHub settings page, you can easily specify to which GitHub repository your book will be linked.
 
-In the input form, type in the name of your book's repository in the following format:
+Click on the button **Select a Repository**. This should list the repositories
+you granted access in the previous step.
 
-`<github-username>/<github-repository-name>`
+Choose one and click on the **Sync** button.
 
-Note that you shouldn't enter neither the full GitHub address, nor the `.git` extension.
+### 3. Create a new book using GitHub {#create}
 
-Finally, click on the **Save** button.
+From the [new book page](https://www.gitbook.com/new):
 
-
-### 3. Setting up webhooks {#webhooks}
-
-The final step is to configure a webhook on your GitHub repository that will let GitBook know when your repository is updated.
-
-After completing [step 2.](#linking), a new **Integration** panel will appear on your book's GitHub settings page.
-To add the webhook, you can either:
-
-- Click on the **Add webhook** button to automatically create the webhook in your GitHub repo
-- Add the provided **Webhook URL** manually to your GitHub repository with access to **Push** events
-
-Either way, clicking on the **Check webhooks** button will lead you to your GitHub repo settings page where you should see the newly created webhook.
-
-The next push event to your GitHub repository will trigger a new update of your book on GitBook.
+1. Below the three default templates, click on the arrow down and choose **GitHub**.
+2. If you haven't properly connected to GitHub configured the integration, you
+   will be able to do so from here. Otherwise, fill in a title and an optional
+   description while choosing a GitHub repository to link to this new book.
+3. Click on the **Create book** button

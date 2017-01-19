@@ -14,6 +14,11 @@ organization, you'll need to follow these three steps:
 
 ### New organization {#new-organization}
 
+#### Create the organization
+
+You can use this [page](https://www.gitbook.com/organizations/new) to proceed
+to the creation of a new organization.
+
 #### Check the current status
 
 You can check that GitBook.com is able to access the required GitHub

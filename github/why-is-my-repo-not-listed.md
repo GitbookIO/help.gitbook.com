@@ -35,5 +35,5 @@ access to.
 After the access has been granted to GitHub, go back to the organization GitHub
 settings page.
 
-This page should list the organization book's currently linked to GitHub and
-see their sync status regarding the GitHub integration.
+This page will list the organization book's currently linked to GitHub and
+show their sync status regarding the GitHub integration.

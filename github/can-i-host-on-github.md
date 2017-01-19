@@ -10,41 +10,39 @@ Integrating with GitHub is done in 3 steps:
 1. Setting up [GitHub Integration](#github-integration)
 2. [Grant access to your repositories](#grant-access)
 3. Linking your book to a GitHub repository
-    3.1 [Existing book](#existing-book)
-    3.2 [Create a new book using GitHub](#create)
+  1. [Existing books](#existing-books)
+  2. [Create a new book using GitHub](#create)
 
 ### 1. Setting up GitHub Integration {#github-integration}
 
 To integrate your book with GitHub, you need to authorize GitBook to access
-your GitHub account to some extent. From your [account's
-GitHub settings](https://www.gitbook.com/settings/github), connect your GitHub
-account using the **Connect GitHub** button and install the GitBook integration
-on GitHub using the **Install GitHub integration on this account** button.
+your GitHub account to some extent. Setup GitHub by clicking on the **Install
+GitHub integration on this account** button from your [GitHub account's
+settings page](https://www.gitbook.com/settings/github).
 
 This will redirect you to GitHub's integration install page where you can
-install and configure GitBook integration for GitHub.
+install and configure the GitBook integration for GitHub.
 
 ### 2. Grant access to your repositories {#grant-access}
 
-From GitHub's integration page, choose either all repositories or grant access to just some of them.
+From GitHub's integration page, choose either all repositories or only grant access to some of them.
 
 Click on the **Install** button.
 
-### 3. Linking your book to a GitHub repository {#existing-book}
+### 3.1 Linking your book to a GitHub repository {#existing-books}
 
 From your book's GitHub settings page, you can easily specify to which GitHub repository your book will be linked.
 
-Click on the button **Select a Repository**. This should list the repositories
-you granted access in the previous step.
+Click on the button **Select a Repository**.
 
-Choose one and click on the **Sync** button.
+Select one and click on the **Sync** button.
 
-### 3. Create a new book using GitHub {#create}
+### 3.2 Create a new book using GitHub {#create}
 
 From the [new book page](https://www.gitbook.com/new):
 
 1. Below the three default templates, click on the arrow down and choose **GitHub**.
-2. If you haven't properly connected to GitHub configured the integration, you
-   will be able to do so from here. Otherwise, fill in a title and an optional
+2. If you didn't already setup GitHub, you will be asked to install the
+   integration and come back. Otherwise, fill in a title and an optional
    description while choosing a GitHub repository to link to this new book.
 3. Click on the **Create book** button

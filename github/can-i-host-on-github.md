@@ -9,8 +9,9 @@ Integrating with GitHub is done in 3 steps:
 
 1. Setting up [GitHub Integration](#github-integration)
 2. [Grant access to your repositories](#grant-access)
-3. [Linking your book](#linking) to a GitHub repository or [Create a new book
-   using GitHub](#create)
+3. Linking your book to a GitHub repository
+    3.1 [Existing book](#existing-book)
+    3.2 [Create a new book using GitHub](#create)
 
 ### 1. Setting up GitHub Integration {#github-integration}
 
@@ -29,7 +30,7 @@ From GitHub's integration page, choose either all repositories or grant access t
 
 Click on the **Install** button.
 
-### 3. Linking your book to a GitHub repository {#linking}
+### 3. Linking your book to a GitHub repository {#existing-book}
 
 From your book's GitHub settings page, you can easily specify to which GitHub repository your book will be linked.
 

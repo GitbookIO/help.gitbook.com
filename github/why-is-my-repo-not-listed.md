@@ -1,17 +1,39 @@
-To import a book from, or link a book to a GitHub repository belonging to a GitHub organization, the GitHub organization needs to grant access to the GitBook application. Otherwise, the repository will not be listed for you to import.
+To import a book from, or link a book to a GitHub repository belonging to a
+GitHub organization, the GitHub organization needs to grant access to the
+GitBook integration. Otherwise, the repository will not be listed for you to
+import.
 
 ### Check the current status
 
-You can check that GitBook.com is able to access the required GitHub organization by visiting [GitBook's authorization page](https://github.com/settings/connections/applications/e103ee3796d447fab74c).
+You can check that GitBook.com is able to access the required GitHub
+organization by visiting GitBook's organization settings page (for instance
+`https://www.gitbook.com/@org/settings/github`, replace `org` by your GitBook's
+organization name).
+
+This page will list the organization book's currently linked to GitHub and
+their status regarding the integration (if they're included in the integration
+or not).
 
 ### Grant access to GitBook
 
-If the GitBook application doesn't have access to the GitHub organization, you can either:
-- directly grant the application access to the organization if you are an owner
+If the GitBook integration doesn't have access to the GitHub organization, you can either:
+
+- directly grant the integration access to the organization if you are an owner
 - or make a request to the organization's owner to grant the access
 
-### Reconnecting your GitHub account
+If you are an owner of the GitHub organization, you'll be able to sync this
+organization with GitHub using the **Select a GitHub organization** button,
+which should list your organizations on GitHub.
 
-After the access has been granted on GitHub, you must update your GitHub Access Token for GitBook.com.
-To do so, simply go to [your settings page](https://www.gitbook.com/settings), click on `Reconnect GitHub Account`
-with access to your public (and private if needed) repositories.
+Then, click on the **Install GitHub integration on this account** button, that
+will redirect you to the integration install page where you'll be able to
+install the integration and choose the repositories you wish to enable
+access to.
+
+### Checking GitBook's settings for GitHub
+
+After the access has been granted to GitHub, go back to the organization GitHub
+settings page.
+
+This page should list the organization book's currently linked to GitHub and
+see their sync status regarding the GitHub integration.

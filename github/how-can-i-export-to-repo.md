@@ -1,28 +1,37 @@
-<!-- TODO Link to guide for GitHub hosting -->
+---
+related:
+    - github/can-i-host-on-github.md
+---
 
-If you started writing your book on GitBook and you now want to [host its source on GitHub](can-i-host-on-github.md), don't worry, it's easy. To do so, you can either use the GitHub import tool, or operate from the command line.
+Exporting your GitBook content to a GitHub repository is super simple.
 
-#### Using the GitHub Import Tool
+1. [Setup GitHub](#setup-github)
+2. [Link your book to a GitHub repository](#link-book)
+3. [Resolve potential conflicts](#resolve-conflicts)
 
-1. Use the **Import Tool** from GitHub:  [import.github.com/new](https://import.github.com/new)
-2. Enter your GitBook git url, for example: `https://git.gitbook.com/MyName/MyBook.git` (this url can be found in your book settings).
-3. Enter a name for your GitHub repository.
-4. Enter your GitBook credentials (you can use your API token instead of your password) when prompted.
-5. Done!
+### 1. Setup GitHub {#setup-github}
 
-#### Using the command line
+If not already, the owner's account of the book you would like to export
+must be configured to use our GitHub integration. See [this article] for
+a detailed explanation of how to setup your account with GitHub.
 
-This operation will overwrite the content of the GitHub repository.
+### 2. Link your book to a GitHub repository {#link-book}
 
-After creating a repository on GitHub:
+Go to your book's GitHub settings page and click on the **Select a Repository** button.
+After you selected one, click on the **Sync** button.
 
-```
-# Clone your GitBook repository (you'll need to enter your username and password)
-$ git clone https://git.gitbook.com/MyName/MyBook.git ./mybook
+From now on, every update of your book will be reflected automatically on
+the selected GitHub repository.
 
-# Enter the cloned book
-cd ./mybook
+### 3. Resolve potential conflicts
 
-# Push it to Github
-$ git push https://github.com/username/repo.git master --force
-```
+If you linked an existing book with an existing GitHub repository, chances are high
+that your GitBook content and your GitHub repository are out of sync. This case can
+also happen if you edited both your book and your GitHub repository in parallel.
+
+Whenever this is the case, you can come back to this page and select which content
+you would like to use as the source of truth between GitBook and GitHub to force
+re-syncing their content.
+
+Be careful though, forcing your content to sync **will totally replace** the destination's
+existing content, so be sure to know what you're doing.

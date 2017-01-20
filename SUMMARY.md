@@ -66,4 +66,3 @@
 * [What platforms does the editor support?](editor/what-os-are-supported.md)
 * [Where are the files stored?](editor/where-are-the-files-stored.md)
 * ["Error: Quota has been exceeded"](editor/error-quota.md)
-

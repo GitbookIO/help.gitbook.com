@@ -12,7 +12,7 @@ Exporting your GitBook content to a GitHub repository is super simple.
 ### 1. Setup GitHub {#setup-github}
 
 If not already, the owner's account of the book you would like to export
-must be configured to use our GitHub integration. See [this article] for
+must be configured to use our GitHub integration. See [this article](can-i-host-on-github.md#github-integration) for
 a detailed explanation of how to setup your account with GitHub.
 
 ### 2. Link your book to a GitHub repository {#link-book}

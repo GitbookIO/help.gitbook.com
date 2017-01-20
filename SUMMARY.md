@@ -35,6 +35,7 @@
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
 * [How can I provide a PDF version of my book ?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
 * [How can I delete a book?](books/how-can-i-delete-a-book.md)
+* [How can I transfer the ownership of a book to another account?](books/how-can-i-transfer-ownership.md)
 
 ## Content & Customization
 * [Can I customize the design of my book?](content/can-i-customize-design.md)

@@ -4,14 +4,14 @@ search:
 
 ---
 
-Yes, we offer the following discounted plans:
+Yes, we offer the following discounts:
 
-| Discount | Conditions | Duration | Application |
-| -------- | ---------- | -------- | ----------- |
-| Education discount | 100% off the Plus plan | One year renewable | Students and teachers |
-| Education discount | 100% off the Organization plan | One year renewable | Educational projects |
-| Open-Source discount | 100% off the Organization plan | - | Open-souce projects |
+| Applies to               | Conditions                                       | Duration           |
+| -----------              | ----------                                       | --------           |
+| Students and teachers    | 100% off the Individual Plus plan                | One year renewable |
+| Educational projects     | Up to 100% off the appropriate Organization plan | One year renewable |
+| Non-profit organizations | Up to 100% off the appropriate Organization plan | -                  |
 
-Details about each plan can be found on the [GitBook pricing page](https://www.gitbook.com/pricing).
+Details about each plan can be found on the [GitBook pricing page](https://www.gitbook.com/pricing). _If you do not have requirement regarding privacy, our free plans are likely to fit your needs_.
 
-To apply for a discount, feel free to contact us through the [Contact form](https://www.gitbook.com/contact).
+To apply for a discount, contact us through the [Contact form](https://www.gitbook.com/contact). Please provide your academic email, and if you are representantative of an educational project or a non-profit organization, tell us more about your project and how you plan on using GitBook.

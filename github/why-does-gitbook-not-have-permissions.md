@@ -1,3 +1,9 @@
+---
+search:
+    keywords: ["github", "organization", "repository", "access", "permissions"]
+
+---
+
 If some of your books are linked to GitHub repositories, you might
 encounter an error telling you GitBook does not have the permissions
 to access every or a specific repository.

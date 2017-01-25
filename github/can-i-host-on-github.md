@@ -1,3 +1,8 @@
+---
+related:
+    - github/how-can-i-resolve-github-sync-errors.md
+---
+
 <!-- TODO Reuse the article from documentation/doc-separation and make a it _guide_ -->
 
 GitBook integrates perfectly with [GitHub](https://github.com) as a hosting solution
@@ -37,23 +42,11 @@ Confirm the installation by clicking the **Install** button.
 
 Go to the GitHub section of your book's settings and select the GitHub repository to link this book to and confirm by clicking on the **Sync** button.
 
-At this point, the GitBook and GitHub repositories are likely to be out of sync.
-This case can also happen if you edited both your book and your GitHub repository in parallel.
-
-Whenever this is the case, you can come back to this page and select which content
-you would like to use as the source of truth between GitBook and GitHub to force
-re-syncing their content.
-
-Be careful though, forcing your content to sync **will totally replace** the destination's
-existing content, so be sure to know what you're doing.
+At this point, the GitBook and GitHub repositories are likely to be out of sync, but you can easily [resolve potential conflicts](./how-can-i-resolve-github-sync-errors.md).
 
 #### 3.2 Creating a new book from a GitHub repository
 
-From the [new book page](https://www.gitbook.com/new), select the **GitHub**
-template on the left. If you didn't already setup GitHub, you will be asked to install the
-integration and come back.
+From the [new book page](https://www.gitbook.com/new), select the **GitHub** option.
+Fill in the title and the optional description and use the dropdown to select the GitHub repository this book will be linked to.
 
-Once this is done, fill in the title and the optional description and select
-which GitHub repository you would like to link this new book to.
-
-Finally, click on the **Create book** button.
+Validate by clicking on the **Create book** button.

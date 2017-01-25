@@ -1,5 +1,7 @@
 ---
 related:
+    - github/how-can-i-export-to-repo.md
+    - github/how-can-i-import-repo.md
     - github/how-can-i-resolve-github-sync-errors.md
 ---
 
@@ -15,7 +17,9 @@ Integrating with GitHub is done in 3 steps:
 
 1. Setting up our [GitHub Integration](#github-integration)
 2. [Granting access](#granting-access) to your repositories
-3. [Linking a book](#linking-a-book) to a GitHub repository
+3. Linking a book to a GitHub repository
+  1. [Linking an existing book](./how-can-i-export-to-repo.md)
+  2. [Creating a new book from a GitHub repository](./how-can-i-import-repo.md)
 
 ### 1. Setting up our GitHub Integration {#github-integration}
 
@@ -39,22 +43,3 @@ On the GitHub integration's page, select which repositories you want to grant Gi
 ![](/assets/select-github-integration-repositories.png)
 
 Confirm the installation by clicking the **Install** button.
-
-### 3. Linking a book to a GitHub repository {#linking-a-book}
-
-#### 3.1 Linking an existing book
-
-Go to the GitHub section of your book's settings and select the GitHub repository to link this book to and confirm by clicking on the **Sync** button.
-
-![](/assets/sync-book-with-github.png)
-
-At this point, the GitBook and GitHub repositories are likely to be out of sync, but you can easily [resolve potential conflicts](./how-can-i-resolve-github-sync-errors.md).
-
-#### 3.2 Creating a new book from a GitHub repository
-
-From the [new book page](https://www.gitbook.com/new), select the **GitHub** option.
-Fill in the title and the optional description and use the dropdown to select the GitHub repository this book will be linked to.
-
-![](/assets/create-book-from-github.png)
-
-Validate by clicking on the **Create book** button.

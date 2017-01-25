@@ -53,7 +53,7 @@
 * [How can I import my GitHub repository?](github/how-can-i-import-repo.md)
 * [How can I transfer my content to GitHub?](github/how-can-i-export-to-repo.md)
 * [Why does GitBook not have the permissions to access a repository?](github/why-does-gitbook-not-have-permissions.md)
-* [How can i resolve sync errors between GitBook and GitHub?](github/how-can-i-resolve-github-sync-errors.md)
+* [How can I resolve sync errors between GitBook and GitHub?](github/how-can-i-resolve-github-sync-errors.md)
 
 ## Organizations
 * [What is an Organization?](orgs/what-is-an-organization.md)

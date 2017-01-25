@@ -14,35 +14,31 @@ Integrating with GitHub is done in 3 steps:
 
 ### 1. Setting up our GitHub Integration {#github-integration}
 
-First, you need to install our GitHub integration on the account of the author
-of the book(s) you want to be hosted on GitHub.
+First, you need to install our GitHub integration on the account of the owner of the book(s) you want to be hosted on GitHub.
 
-- For your personal account, you can go directly to your [GitHub account's
-settings page](https://www.gitbook.com/settings/github) and click on the **Install
-GitHub integration on this account** button.
+- If the owner of the book is an organization, log in with a GitBook account with admin permissions for that organization.
+  Go to the GitHub section of the organization's settings page. From here, use the dropdown button to select the GitHub organization
+  you want to sync your GitBook organization with and click on the **Install GitHub integration** button.
 
-- For an organization, you will find the same GitHub tab in the organization's
-settings page. From here, select an organization and click on the **Install** button.
+- Otherwise, log in with your personal account. Go to the [GitHub section of your settings page](https://www.gitbook.com/settings/github)
+  and click on the **Install GitHub integration** button.
 
-In both cases, this will lead you to the GitHub integration's installation page.
+You should have arrived on the GitHub integration's page for GitBook.
 
 ### 2. Granting access to your repositories {#granting-access}
 
-On the GitHub integration's installation page, select which repositories you
-want to grant GitBook access to. It is now possible to select all or only some of them.
+On the GitHub integration's page, select which repositories you want to grant GitBook access to.
 
-Finally, click on the **Install** button.
+Confirm the installation by clicking the **Install** button.
 
 ### 3. Linking a book to a GitHub repository {#linking-a-book}
 
 #### 3.1 Linking an existing book
 
-Go to your book's GitHub settings page and click on the **Select a Repository** button.
-After you selected one, click on the **Sync** button.
+Go to the GitHub section of your book's settings and select the GitHub repository to link this book to and confirm by clicking on the **Sync** button.
 
-At this point, chances are high that your GitBook content and your GitHub repository
-are out of sync. This case can also happen if you edited both your book and your GitHub
-repository in parallel.
+At this point, the GitBook and GitHub repositories are likely to be out of sync.
+This case can also happen if you edited both your book and your GitHub repository in parallel.
 
 Whenever this is the case, you can come back to this page and select which content
 you would like to use as the source of truth between GitBook and GitHub to force

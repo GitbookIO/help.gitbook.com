@@ -14,8 +14,8 @@ Integrating with GitHub is done in 3 steps:
 
 ### 1. Setting up our GitHub Integration {#github-integration}
 
-The first step is to install our GitHub integration on the owner's account
-of the book that you would like to sync with a GitHub repository.
+First, you need to install our GitHub integration on the account of the author
+of the book(s) you want to be hosted on GitHub.
 
 - For your personal account, you can go directly to your [GitHub account's
 settings page](https://www.gitbook.com/settings/github) and click on the **Install

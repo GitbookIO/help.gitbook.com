@@ -52,7 +52,7 @@
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
 * [How can I import my GitHub repository?](github/how-can-i-import-repo.md)
 * [How can I transfer my content to GitHub?](github/how-can-i-export-to-repo.md)
-* [Why would GitBook not have the permissions to access a repository?](github/why-does-gitbook-not-have-permissions.md)
+* [Why does GitBook not have the permissions to access a repository?](github/why-does-gitbook-not-have-permissions.md)
 
 ## Organizations
 * [What is an Organization?](orgs/what-is-an-organization.md)

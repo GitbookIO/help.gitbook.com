@@ -33,7 +33,7 @@
 * [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
-* [How can I provide a PDF version of my book ?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
+* [How can I provide a PDF version of my book?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
 * [How can I delete a book?](books/how-can-i-delete-a-book.md)
 * [How can I transfer the ownership of a book to another account?](books/how-can-i-transfer-ownership.md)
 
@@ -53,6 +53,7 @@
 * [How can I import my GitHub repository?](github/how-can-i-import-repo.md)
 * [How can I transfer my content to GitHub?](github/how-can-i-export-to-repo.md)
 * [Why does GitBook not have the permissions to access a repository?](github/why-does-gitbook-not-have-permissions.md)
+* [How can i resolve sync errors between GitBook and GitHub?](github/how-can-i-resolve-github-sync-errors.md)
 
 ## Organizations
 * [What is an Organization?](orgs/what-is-an-organization.md)

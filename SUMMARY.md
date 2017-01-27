@@ -33,8 +33,9 @@
 * [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
-* [How can I provide a PDF version of my book ?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
+* [How can I provide a PDF version of my book?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
 * [How can I delete a book?](books/how-can-i-delete-a-book.md)
+* [How can I transfer the ownership of a book to another account?](books/how-can-i-transfer-ownership.md)
 
 ## Content & Customization
 * [Can I customize the design of my book?](content/can-i-customize-design.md)
@@ -51,7 +52,9 @@
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
 * [How can I import my GitHub repository?](github/how-can-i-import-repo.md)
 * [How can I transfer my content to GitHub?](github/how-can-i-export-to-repo.md)
-* [Why isn't my repository listed?](github/why-is-my-repo-not-listed.md)
+* [Why does GitBook not have the permissions to access a repository?](github/why-does-gitbook-not-have-permissions.md)
+* [How can I resolve sync errors between GitBook and GitHub?](github/how-can-i-resolve-github-sync-errors.md)
+* [Why is my repository not listed?](github/why-is-my-repository-not-listed.md)
 
 ## Organizations
 * [What is an Organization?](orgs/what-is-an-organization.md)
@@ -66,4 +69,3 @@
 * [What platforms does the editor support?](editor/what-os-are-supported.md)
 * [Where are the files stored?](editor/where-are-the-files-stored.md)
 * ["Error: Quota has been exceeded"](editor/error-quota.md)
-

@@ -1,28 +1,27 @@
-<!-- TODO Link to guide for GitHub hosting -->
+---
+related:
+    - github/can-i-host-on-github.md
+    - github/how-can-i-resolve-github-sync-errors.md
+---
 
-If you started writing your book on GitBook and you now want to [host its source on GitHub](can-i-host-on-github.md), don't worry, it's easy. To do so, you can either use the GitHub import tool, or operate from the command line.
+Exporting your GitBook content to a GitHub repository is super simple:
 
-#### Using the GitHub Import Tool
+1. [Setup GitHub](#setup-github)
+2. [Link your book to a GitHub repository](#link-book)
+3. [Resolve potential conflicts](./how-can-i-resolve-github-sync-errors.md)
 
-1. Use the **Import Tool** from GitHub:  [import.github.com/new](https://import.github.com/new)
-2. Enter your GitBook git url, for example: `https://git.gitbook.com/MyName/MyBook.git` (this url can be found in your book settings).
-3. Enter a name for your GitHub repository.
-4. Enter your GitBook credentials (you can use your API token instead of your password) when prompted.
-5. Done!
+### 1. Setup GitHub {#setup-github}
 
-#### Using the command line
+If not already, the owner's account of the book you would like to export
+must be configured to use our GitHub integration. See [this article](./can-i-host-on-github.md#github-integration) for
+a detailed explanation of how to setup your account with GitHub.
 
-This operation will overwrite the content of the GitHub repository.
+### 2. Link your book to a GitHub repository {#link-book}
 
-After creating a repository on GitHub:
+Go to the GitHub section of your book's settings and select the GitHub repository to link this book to and confirm by clicking on the **Sync** button.
 
-```
-# Clone your GitBook repository (you'll need to enter your username and password)
-$ git clone https://git.gitbook.com/MyName/MyBook.git ./mybook
+![](/assets/sync-book-with-github.png)
 
-# Enter the cloned book
-cd ./mybook
+From now on, every update made to your book will be automatically reflected on the selected GitHub repository.
 
-# Push it to Github
-$ git push https://github.com/username/repo.git master --force
-```
+![](/assets/github-sync-success.png)

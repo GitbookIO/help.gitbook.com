@@ -1,15 +1,15 @@
 {
     "gitbook": "3.2.2",
     "title": "GitBook Help Center",
-    "plugins": ["algolia", "search", "theme-faq", "-lunr", "-fontsettings", "-sharing"],
+    "plugins": [ "algolia", "search", "theme-faq", "-lunr", "-fontsettings", "-sharing" ],
     "structure": {
         "readme": "home.md"
     },
     "pluginsConfig": {
         "algolia": {
-            "index":         "help.gitbook.com",
+            "index": "help.gitbook.com",
             "applicationID": "68GMVJLGK8",
-            "publicKey":     "45e52755891b94ec2425f6191f2479eb"
+            "publicKey": "45e52755891b94ec2425f6191f2479eb"
         }
     }
 }

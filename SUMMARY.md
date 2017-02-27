@@ -39,7 +39,6 @@
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
 * [How can I provide a PDF version of my book?](books/how-can-i-provide-a-pdf-version-of-my-book.md)
 * [How can I delete a book?](books/how-can-i-delete-a-book.md)
-* What are Change Requests ?
 
 ## Content & Customization
 

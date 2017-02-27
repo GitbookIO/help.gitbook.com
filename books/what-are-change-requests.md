@@ -24,11 +24,11 @@ As you work on your change request, you and your team will be able to **preview*
 
 ### Accept the changes
 
-Once the change request is ready. You can accept and **merge it** from the online view.
+Once the change request is ready, you can accept and **merge it** from the online view. Once merged, the changes will make it to the primary version and will be published.
 
-If the change request has conflicts with the primary version, you'll be redirected to a resolution view in the online editor.
+If you are not happy with the changes, you can also close the change request without merging it. The change request can be reopened anytime without any loss.
 
-If you decide you don't want the changes, you can close the change request without merging. The change request can then be reopened at any time without any loss.
+> Note: If the change request has conflicts with the primary version, you'll be asked to resolve these conflicts. This happens when changes are made to the same content on the primary version, while your change request is open. _Resolving conflicts will not accept the change request_, but it will ensure that you stay up-to-date with the latest changes in your book. This step can be taken at any time. The earlier, the better.
 
 ### Branches and change requests
 

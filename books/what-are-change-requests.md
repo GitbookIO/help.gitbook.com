@@ -1,8 +1,8 @@
 # What are Change Requests ?
 
-When you're working on a project, you're going to have a bunch of different changes or ideas in progress at any given time – some of which are ready to go, and others which are not. Change Requests exists to help you manage this workflow.
+When you're working on a book, you're going to have a bunch of changes or ideas in progress at any given time. Some of them are ready to be published, some are waiting to be reviewed by your collaborators, and others are just not ready at all. **Change Requests** exist to help you manage this and keep a clean workflow.
 
-When you create a change request in your book, you're creating an environment where you can try out new ideas. Changes you make on a request don't affect the primary version, so you're free to experiment and make changes, safe in the knowledge that your request won't be accepted and merged until it's ready to be reviewed by someone you're collaborating with.
+When you create a change request in your book, you're creating an environment where you can try out new ideas. Changes you make on a request don't affect the primary version. You're free to experiment and make changes, safe in the knowledge that your changes won't be accepted and merged until they're ready to be reviewed.
 
 ### Create a change request
 

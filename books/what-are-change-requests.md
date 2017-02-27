@@ -24,7 +24,7 @@ As you work on your change request, you and your team will be able to **preview*
 
 ### Accept the changes
 
-Once the change request is ready, you can accept and **merge it** from the online view. Once merged, the changes will make it to the primary version and will be published.
+Once the change request is ready, you can accept and **merge it** from the online view. Once merged, the changes will make it to the primary version and will be published. Good job!
 
 If you are not happy with the changes, you can also close the change request without merging it. The change request can be reopened anytime without any loss.
 

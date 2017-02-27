@@ -12,15 +12,15 @@ All collaborators with edit access can create a change request from the GitBook 
 
 ![](/assets/editor-create-cr.png)
 
-You'll be prompted to type a title and a description for your change request, so that others know what is being worked on. Once done, you can see it in the **Change Request** tab of your book on GitBook.com.  
-  
+You'll be prompted to type a title and a description for your change request, so that others know what is being worked on. Once done, you can see it in the **Change Request** tab of your book on GitBook.com.
+
 ![](/assets/gitbookcom-cr-view.png)
+
+As you can see, the Change Request is empty for now. You can now freely make changes to your content from the Editor.
 
 ### Review a change request
 
-Once a change request is opened, you can discuss and review the potential changes with collaborators and make follow-up changes before the request is accepted and merged in the primary version \(**Opened change requests are always editable**\).
-
-After you're happy with the proposed changes, you can **Accept the changes**.
+As you work on your change request, you and your team will be able to **preview** the result, **comment** and make suggestions, helping you **improving the quality of your content**. All this can be done from your change request's page. Change requests are designed to encourage these healthy workflows.
 
 ### Accept the changes
 

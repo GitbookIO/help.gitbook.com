@@ -8,11 +8,13 @@ Once you start using change requests, your workflow will become faster and more 
 
 ### Create a change request
 
-All collaborators with edit access can create a change request from the editor.
+All collaborators with edit access can create a change request from the GitBook Editor. In the Editor, click **Create a change request**.
 
-1. On the GitBook Editor, click **Create a change request**.![](/assets/editor-create-cr.png)
-2. You'll be prompted to type a title and a description for your change request. 
-3. Click **Send**
+![](/assets/editor-create-cr.png)
+
+You'll be prompted to type a title and a description for your change request, so that others know what is being worked on. Once done, you can see it in the **Change Request** tab of your book on GitBook.com.  
+  
+![](/assets/gitbookcom-cr-view.png)
 
 ### Review a change request
 

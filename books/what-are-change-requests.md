@@ -4,6 +4,8 @@ When you're working on a book, you're going to have a bunch of changes or ideas 
 
 When you create a change request in your book, you're creating an environment where you can try out new ideas. Changes you make on a request don't affect the primary version. You're free to experiment and make changes, safe in the knowledge that your changes won't be accepted and merged until they're ready to be reviewed.
 
+Once you start using change requests, your workflow will become faster and more focused. Each change request will make a cohesive and distinct set of changes, that can be reviewed independently from others. Your published version will always stay polished and coherent. And you will have a high-level view of your book's evolution.
+
 ### Create a change request
 
 All collaborators with edit access can create a change request from the editor.

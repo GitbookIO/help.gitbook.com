@@ -30,7 +30,7 @@ If you are not happy with the changes, you can also close the change request wit
 
 > Note: If the change request has conflicts with the primary version, you'll be asked to resolve these conflicts. This happens when changes are made to the same content on the primary version, while your change request is open. _Resolving conflicts will not accept the change request_, but it will ensure that you stay up-to-date with the latest changes in your book. This step can be taken at any time. The earlier, the better.
 
-### Branches and change requests
+### Advanced: change requests and branches
 
-Each book on GitBook.com is backed by a [Git repository](/books/how-can-i-use-git.md). Creating a change request, creates a new branch `changes/<id>` . Pushing commits to this branch will add changes to your request; Merging this branch will accept and merge the change request.
+Each book on GitBook.com is backed by a [Git repository](/books/how-can-i-use-git.md). Creating a change request, creates a new branch `changes/<id>` . Pushing commits to this branch will add changes to your request. Merging this branch will automatically accept and merge the change request.
 

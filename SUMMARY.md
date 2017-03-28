@@ -51,6 +51,7 @@
 * [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
 * [How can I read or share a specific version of my book?](content/how-can-i-access-a-specific-version.md)
 * [Is RTL supported?](content/how-can-i-enable-rtl.md)
+* [I can't see any plugin](content/i-cannot-see-any-plugin.md)
 
 ## GitHub Integration
 

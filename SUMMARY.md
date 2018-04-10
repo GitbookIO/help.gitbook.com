@@ -13,13 +13,11 @@
 ## Accounts & Billing
 
 * [I forgot or lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
-* [What plan should I choose?](accounts/what-plan-should-i-choose.md)
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
-* [Will there be a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
-* [Are the plans' prices the same worldwide?](accounts/are-prices-same-worldwide.md)
-* [Do you offer education discounts?](accounts/do-you-offer-discounts.md)
+* [Is there a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
 * [What payment methods do you accept?](accounts/what-payment-methods-do-you-accept.md)
 * [Why am I getting an error "An account with this email address already exists"?](accounts/why-error-duplicate.md)
+* [I cannot create an account](accounts/i-cannot-create-an-account.md)
 
 ## Books
 

@@ -1,6 +1,6 @@
 To transfer ownership of a book to another user or to an organization:
 
-* Go to the book's home page (accessed from your dashboard, or at the URL `https://www.gitbook.com/book/username/bookname`)
+* Go to the book's home page (accessed from your dashboard, or at the URL `https://legacy.gitbook.com/book/username/bookname`)
 
 * Go to its settings tab:
   ![](/assets/book-settings.png)

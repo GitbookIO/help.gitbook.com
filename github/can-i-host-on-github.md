@@ -30,7 +30,7 @@ First, you need to install our GitHub integration on the account of the owner of
   you want to sync your GitBook organization with and click on the **Install GitHub integration** button.
   ![](/assets/sync-github-org.png)
 
-- Otherwise, log in with your personal account. Go to the [GitHub section of your settings page](https://www.gitbook.com/settings/github)
+- Otherwise, log in with your personal account. Go to the [GitHub section of your settings page](https://legacy.gitbook.com/settings/github)
   and click on the **Install GitHub integration** button.
   ![](/assets/install-github-integration.png)
 

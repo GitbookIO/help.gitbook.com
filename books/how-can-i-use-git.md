@@ -26,7 +26,7 @@ machine git.gitbook.com
   password API-TOKEN-or-PASSWORD
 ```
 
-We recommend using your **API TOKEN** for security reasons, you can find it [in your settings under "API"](https://www.gitbook.com/settings#api)
+We recommend using your **API TOKEN** for security reasons, you can find it [in your settings under "API"](https://legacy.gitbook.com/settings#api)
 
 ### Create a new repository on the command line
 

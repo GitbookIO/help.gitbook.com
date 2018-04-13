@@ -15,7 +15,7 @@ If the user you're converting is already a member of other organizations, you mu
 
 ##### 3. Convert the account into an organization
 
-* Open your [account settings](https://www.gitbook.com/settings).
+* Open your [account settings](https://legacy.gitbook.com/settings).
 * Under "Transform account", enter the username of your new personnal account (see section 1.), click `Turn into an organization`.
 
 ##### 4. Sign in to your new user account

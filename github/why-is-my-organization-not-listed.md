@@ -18,4 +18,4 @@ If the GitBook application doesn't have access to the GitHub organization, you c
 ### Reconnecting your GitHub account
 
 After the access has been granted on GitHub, you must update your GitHub Access Token for the GitBook OAuth application.
-To do so, simply go to [your settings page](https://www.gitbook.com/settings/github) and click on `Reconnect GitHub Account`.
+To do so, simply go to [your settings page](https://legacy.gitbook.com/settings/github) and click on `Reconnect GitHub Account`.

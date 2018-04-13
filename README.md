@@ -2,4 +2,5 @@
 search: false
 ---
 
-Welcome to the help center for the [GitBook.com](https://www.gitbook.com) platform, where you can learn how to create books, collaborate with people, and integrate with other services. If you are looking for details about the GitBook format, visit the [toolchain documentation](http://toolchain.gitbook.com/).
+Welcome to the help center for the **deprecated GitBook.com platform**, that lives at [**legacy**.gitbook.com](https://legacy.gitbook.com). Customers who have not yet migrated to the new version can still use the legacy service for the duration of the transition. To access the new version documentation, head to [docs.gitbook.com](https://docs.gitbook.com).
+

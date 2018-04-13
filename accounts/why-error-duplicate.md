@@ -10,6 +10,6 @@ In this case, you need to **remove** one of these account, to do so:
 
 1. Log out from the account associated with your email
 2. Log in using the social account instead
-3. Delete this account at [www.gitbook.com/settings](https://www.gitbook.com/settings)
+3. Delete this account at [legacy.gitbook.com/settings](https://legacy.gitbook.com/settings)
 4. Log in again using your email
-5. Associate the Social Account to your email account at [www.gitbook.com/settings](https://www.gitbook.com/settings)
+5. Associate the Social Account to your email account at [legacy.gitbook.com/settings](https://legacy.gitbook.com/settings)
